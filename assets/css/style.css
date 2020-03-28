@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #d5dde7;
+}
+header {
+    padding: 20px 35px;
+    background-color: darkblue;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    top: 0;
+    background-size: cover;
+    background-position: 80%;
+    background-attachment: fixed;
+}
+header nav {
+    margin: 7px 0;
+}
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+header nav ul li a {
+    padding: 10px 15px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+    color: #d5dde7;
+}
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: darkblue; 
+    margin: 0 auto;
+    white-space: nowrap;
+    text-align: center;
+}
+.box {
+    width: 175px;
+    height: 50px;
+    background: #d5dde7;
+}
+.hero {
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    top:0px;
+}
+.stretch {
+    width: 100%;
+}
+.section {
+    color: rgb(107, 111, 131);
+    font-weight: bold;
+    font-size: 35px;
+}
+.about-me, .contact-me {
+    font-style: normal;
+    font-size: 18px;
+}
+.contact-me a {
+    color: rgb(107, 111, 131);
+    text-decoration: none;
+}
+.contact-me ul li {
+    display: flex;
+    flex-wrap: wrap;
+}
