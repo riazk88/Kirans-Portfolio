@@ -71,7 +71,7 @@ header h1 {
     height: 50px;
     font-size: 30px;
 }
-.section {
+.content {
     color: rgb(107, 111, 131);
     font-weight: bold;
     font-size: 35px;
@@ -112,6 +112,7 @@ header h1 {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
     opacity: 0.5;
+    position: relative;
 }
 .A:hover {
     opacity: 1;
