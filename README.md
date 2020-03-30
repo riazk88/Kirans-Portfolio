@@ -7,6 +7,3 @@ Hi, my name is Kiran! I currently work as a mental health therapist but I am loo
 
 # Website
 https://riazk88.github.io/kirans-portfolio/
-
-## Contribution
-Made with ❤️ by Kiran Riaz
